@@ -18,3 +18,6 @@ Tutorial Augmented reality flip book with Vuforia <br>
 ## Can be start web Augmented reality
 
 Https://Webxr.edafait.com
+
+
+it would be good to put in which version it was made
